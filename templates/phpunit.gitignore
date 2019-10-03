@@ -1,0 +1,15 @@
+# Covers PHPUnit
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# Generated files
+.phpunit.result.cache
+
+# PHPUnit
+/app/phpunit.xml
+/phpunit.xml
+
+# Build data
+/build/
+
+# Coverage data
+/coverage/
